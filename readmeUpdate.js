@@ -7,6 +7,9 @@ import Parser from "rss-parser";
  */
 let text = `# Hi there 👋
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wlaud2000)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wlaud2000&layout=compact&hide=r,jupyter%20notebook,c%23&exclude_repo=roharui.github.io)](https://github.com/anuraghazra/github-readme-stats)
+
 ## 이런 환경에 익숙해요✍🏼
 
 ## 언어
@@ -18,6 +21,9 @@ let text = `# Hi there 👋
 </p>
 
 ## Contact me
+
+<img alt="" src= "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+kimjim1234550@gmail.com
 
 ## 📕 Latest Blog Posts
 
