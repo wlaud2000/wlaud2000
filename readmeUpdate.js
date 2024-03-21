@@ -12,8 +12,8 @@ let text = `# Hi there 👋
 
 ## 이런 환경에 익숙해요✍🏼
 
-## 언어
-
+## Skills
+<!-- https://github.com/Envoy-VC/awesome-badges -->
 <p>
     <img alt="" src= "https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/> 
     <img alt="" src= "https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/> 
