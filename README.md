@@ -1,5 +1,4 @@
-# Hi I'm Jimyeong! 👋
-
+# Hi I'm Jimyeong! 👋 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wlaud2000)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wlaud2000&layout=compact&hide=r,jupyter%20notebook,c%23&exclude_repo=roharui.github.io)](https://github.com/anuraghazra/github-readme-stats)
@@ -7,6 +6,8 @@
 <p align="center">
  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fwlaud2000&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a></a>
 </p>
+
+## 이런 환경에 익숙해요✍🏼
 
 ## 📚Skills
 <!-- https://shields.io/ -->
@@ -29,6 +30,7 @@
     <img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white"/>
 </p>
 
+## Contact me
 
 ## 🌈Follow me
 <p align="center">
@@ -36,7 +38,6 @@
 <a href="https://www.instagram.com/kjm021221/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/></a>
 <a href="https://learning-study.tistory.com/"><img src="https://img.shields.io/badge/tistory-000000?style=flat-square&logo=tistory&logoColor=white"/></a>
 </p>
-
 
 ## 📕 Latest Blog Posts
 
