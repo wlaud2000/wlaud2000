@@ -37,7 +37,6 @@ let text = `# Hi I'm Jimyeong! 👋
     <img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white"/>
 </p>
 
-## Contact me
 
 ## 🌈Follow me
 <p align="center">
