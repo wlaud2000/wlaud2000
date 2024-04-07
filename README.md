@@ -33,7 +33,7 @@
 ## 🌈Follow me
 <p align="center">
 <a href="mailto:kimjim1234550@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>
-<a href="https://www.instagram.com/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/></a>
+<a href="https://www.instagram.com/kjm021221/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/></a>
 <a href="https://learning-study.tistory.com/"><img src="https://img.shields.io/badge/tistory-000000?style=flat-square&logo=tistory&logoColor=white"/></a>
 </p>
 
