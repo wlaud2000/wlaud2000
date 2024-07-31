@@ -46,14 +46,14 @@ let text = `# Hi I'm Jimyeong! 👋
 <a href="https://github.com/devxb/gitanimals">
   <img
     src="https://render.gitanimals.org/lines/wlaud2000?pet-id=606294867382478883"
-    width="220"
+    width="270"
     height="200"
   />
 </a>
 <a href="https://github.com/devxb/gitanimals">
   <img
     src="https://render.gitanimals.org/lines/wlaud2000"
-    width="220"
+    width="270"
     height="200"
   />
 </a>
@@ -61,7 +61,7 @@ let text = `# Hi I'm Jimyeong! 👋
 <a href="https://github.com/devxb/gitanimals">
   <img
     src="https://render.gitanimals.org/lines/wlaud2000?pet-id=606297082990016798"
-    width="220"
+    width="270"
     height="200"
   />
 </a>
