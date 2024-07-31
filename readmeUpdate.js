@@ -43,6 +43,28 @@ let text = `# Hi I'm Jimyeong! 👋
 <a href="https://www.instagram.com/kjm021221/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/></a>
 <a href="https://learning-study.tistory.com/"><img src="https://img.shields.io/badge/tistory-000000?style=flat-square&logo=tistory&logoColor=white"/></a>
 </p>
+<a href="https://github.com/devxb/gitanimals">
+  <img
+    src="https://render.gitanimals.org/lines/wlaud2000?pet-id=606294867382478883"
+    width="220"
+    height="200"
+  />
+</a>
+<a href="https://github.com/devxb/gitanimals">
+  <img
+    src="https://render.gitanimals.org/lines/wlaud2000"
+    width="220"
+    height="200"
+  />
+</a>
+
+<a href="https://github.com/devxb/gitanimals">
+  <img
+    src="https://render.gitanimals.org/lines/wlaud2000?pet-id=606297082990016798"
+    width="220"
+    height="200"
+  />
+</a>
 
 ## 📕 Latest Blog Posts
 
