@@ -40,13 +40,14 @@
     height="200"
   />
 </a>
-
-<a href="https://github.com/devxb/gitanimals">
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=wlaud2000&utm_content=line">
   <img
-    src="https://render.gitanimals.org/lines/wlaud2000?pet-id=606297082990016798"
+    src="https://render.gitanimals.org/lines/wlaud2000?pet-id=674510450033770810"
     width="420"
     height="200"
   />
+</a>
+  
 </a>
 
 ## 📕 Latest Blog Posts
