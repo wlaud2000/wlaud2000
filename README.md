@@ -67,7 +67,7 @@
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Camera%20with%20Flash.png" alt="Camera with Flash" width="25" height="25" /> Project
 | 프로젝트명 | 기간 | 내용 | 역할 |
 |------------|-----------|------------------------------|---------------------|
-| **이걸안사?** | 2025.07 ~ 2025.08 | 대학생을 위한 방문 포장 마감 할인 플랫폼 | Front-End & Back-End |
+| **이걸안사?** | 2025.07 ~ 2025.08 | 대학생을 위한 방문 포장 마감 할인 플랫폼 | [Team Leader] Front-End & Back-End |
 | **WithTime** | 2025.06 ~ 2025.08 | 원하는 예산과 본인의 취향에 맞춰 데이트 코스를 짜주는 서비스 | Back-End |
 | **SMP** | 2025.04 ~ 2025.06 | 정보공유를 중점으로하는 위치기반 SNS | Back-End |
 | **NUPI** | 2024.12 ~ 2025.02 | 지역별 놀거리 추천 및 경로 탐색 서비스 | Back-End |
