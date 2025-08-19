@@ -67,16 +67,15 @@
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Camera%20with%20Flash.png" alt="Camera with Flash" width="25" height="25" /> Project
 | 프로젝트명 | 기간 | 내용 | 역할 |
 |------------|-----------|------------------------------|---------------------|
-| **이걸안사?** | 2025.07 ~ 2025.08 | 대학생을 위한 방문 포장 마감 할인 플랫폼 | [Team Leader] Front-End & Back-End |
-| **WithTime** | 2025.06 ~ 2025.08 | 원하는 예산과 본인의 취향에 맞춰 데이트 코스를 짜주는 서비스 | Back-End |
-| **SMP** | 2025.04 ~ 2025.06 | 정보공유를 중점으로하는 위치기반 SNS | [Part Leader] Back-End |
-| **NUPI** | 2024.12 ~ 2025.02 | 지역별 놀거리 추천 및 경로 탐색 서비스 | Back-End |
-| **ECHO** | 2024.10 ~ 2024.12 | 디지털 타임캡슐 서비스 | Back-End |
-| **SMUNION** | 2024.09 ~ 2025.03 | 교내 동아리 커뮤니티 웹서비스 | [Part Leader] Back-End |
-| **AWS 캠퍼스 해커톤** | 2024.08 | 라벨링 규정이 달라 무역 승인을 못받는 불편을 해소하는 서비스(우수상) | Back-End |
-| **자가비** | 2024.07 ~ 2024.08 | 자신의 가치관 기록 서비스 | Back-End |
-| **별다줄** | 2024.06 | 프로젝트 기록 및 AI 요약 서비스 (해커톤 우승작) | Back-End |
-
+| **[이걸안사?](https://github.com/LikeLion13-Central-Team1)** | 2025.07 ~ 2025.08 | 대학생을 위한 방문 포장 마감 할인 플랫폼 | [Team Leader] Front-End & Back-End |
+| **[WithTime](https://github.com/WithTime12/WithTimeBE)** | 2025.06 ~ 2025.08 | 원하는 예산과 본인의 취향에 맞춰 데이트 코스를 짜주는 서비스 | Back-End |
+| **[SMP](https://github.com/SMUMC-8th/SPRING_A)** | 2025.04 ~ 2025.06 | 정보공유를 중점으로하는 위치기반 SNS | [Part Leader] Back-End |
+| **[NUPI](https://github.com/Nupi-UMC/BackEnd)** | 2024.12 ~ 2025.02 | 지역별 놀거리 추천 및 경로 탐색 서비스 | Back-End |
+| **[ECHO](https://github.com/SMUMC-7th/Team-A-BE)** | 2024.10 ~ 2024.12 | 디지털 타임캡슐 서비스 | Back-End |
+| **[SMUNION](https://github.com/SMUNION/SMUNION-BE)** | 2024.09 ~ 2025.03 | 교내 동아리 커뮤니티 웹서비스 | [Part Leader] Back-End |
+| **[AWS 캠퍼스 해커톤](https://github.com/smu-hack-13/hack-server)** | 2024.08 | 라벨링 규정이 달라 무역 승인을 못받는 불편을 해소하는 서비스(우수상) | Back-End |
+| **[자가비](https://github.com/Zagabi-LikeLion/BackEnd)** | 2024.07 ~ 2024.08 | 자신의 가치관 기록 서비스 | Back-End |
+| **[별다줄](https://github.com/LikeLion12-Team3/Team3-Back)** | 2024.06 | 프로젝트 기록 및 AI 요약 서비스 (해커톤 우승작) | Back-End |
 
 <br>
 
