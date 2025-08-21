@@ -73,7 +73,7 @@
 | **[NUPI](https://github.com/Nupi-UMC/BackEnd)** | 2024.12 ~ 2025.02 | 지역별 놀거리 추천 및 경로 탐색 서비스 | Back-End |
 | **[ECHO](https://github.com/SMUMC-7th/Team-A-BE)** | 2024.10 ~ 2024.12 | 디지털 타임캡슐 서비스 | Back-End |
 | **[SMUNION](https://github.com/SMUNION/SMUNION-BE)** | 2024.09 ~ 2025.03 | 교내 동아리 커뮤니티 웹서비스 | **[Part Leader]** Back-End |
-| **[AWS캠퍼스해커톤](https://github.com/smu-hack-13/hack-server)** | 2024.08 | 라벨링 규정 차이로 인한 무역 승인 불편 해소 서비스 | Back-End |
+| **[AWS 캠퍼스 해커톤](https://github.com/smu-hack-13/hack-server)** | 2024.08 | 국가별 라벨링 규정 차이로 인한 무역 승인 불편 해소 서비스(우수상) | Back-End |
 | **[자가비](https://github.com/Zagabi-LikeLion/BackEnd)** | 2024.07 ~ 2024.08 | 자신의 가치관 기록 서비스 | Back-End |
 | **[별다줄](https://github.com/LikeLion12-Team3/Team3-Back)** | 2024.06 | 프로젝트 기록 및 AI 요약 서비스 (해커톤 우승작) | Back-End |
 
